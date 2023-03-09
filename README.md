@@ -14,3 +14,5 @@
     <img src="https://img.shields.io/badge/Replit-blue?style=for-the-badge&logo=Replit&logoColor=white" alt="ReplitBadge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Isahakh24&style=flat-square&color=blue" alt=""/>
+
